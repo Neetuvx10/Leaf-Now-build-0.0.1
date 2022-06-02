@@ -1,14 +1,3 @@
-FPDI - Free PDF Document Importer
-=================================
+Developing a system to help enthusiasts, farmers in forming process. The farmers can sell/buy/donate plants/seeds through online and the customer can buy that product. The article and chat box helps the farmers to improve their productivity and profitability.
 
-A clone of [FPDI](https://www.setasign.com/fpdi) for GitHub/[Composer](https://packagist.org/packages/setasign/fpdi).
-
-FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF, which was developed by Olivier Plathey. Apart from a copy of FPDF, FPDI does not require any special PHP extensions.
-
-## Installation with [Composer](https://packagist.org/packages/setasign/fpdi)
-
-FPDI is an add-on for [FPDF](http://fpdf.org/). Additionally FPDI can be used with [TCPDF](http://www.tcpdf.org/).
-For completion we added a [FPDF repository](https://github.com/Setasign/FPDF) which simply clones the offical releases.
-
-This package comes without any dependency configuration in the composer.json file. It's up to you to load the desired package as described below.
-
+Leaf Now-build 0.0.1 is the web application which helps farmers by providing various kinds Agri related information and Agri services in the website. This website helps farmers by providing them a large online market to sell their produce. Customer can send purchase request and they can purchase product through website.
