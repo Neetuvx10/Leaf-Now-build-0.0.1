@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\images\\profileImages",
+    "\\Login",
+    "\\vendor\\composer",
+    "\\vendor\\mpdf\\mpdf",
+    "\\vendor\\mpdf\\mpdf\\classes"
+  ],
+  "SelectedNode": "\\Login\\signUp.php",
+  "PreviewInSolutionExplorer": false
+}
